@@ -7,3 +7,7 @@ This repository contains the code for the presentation generated for our work on
 *Keywords*: R, Public Health, Public Sector, Electronic Health Records
 
 For more information check the following material (All in Spanish)
+
+-   [Paper](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/77_Experiencias_en_el_uso_de_R.pdf)
+
+-   [Presentation](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/presentacion/presentacion_latinR_2024.html)
