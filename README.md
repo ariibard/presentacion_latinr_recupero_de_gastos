@@ -11,3 +11,5 @@ For more information check the following material (All in Spanish)
 -   [Paper](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/77_Experiencias_en_el_uso_de_R.pdf)
 
 -   [Presentation](https://github.com/ariibard/presentacion_latinr_recupero_de_gastos/blob/main/presentacion/presentacion_latinR_2024.html)
+
+-   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=KBcI5T5CdW8&list=PL9-E3cL2KgKm7Jg0N1YogTvh6kmyy5F13&index=3)
